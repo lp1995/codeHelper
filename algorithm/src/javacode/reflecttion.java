@@ -1,9 +1,10 @@
-package algorithm;
+package javacode;
 
 import java.lang.reflect.Method;
 
 /**
  * Created by lenovo on 2016/12/13.
+ * 匈牙利算法 最大匹配 不包含优先级 不是稳定匹配
  */
 
  interface Person{
