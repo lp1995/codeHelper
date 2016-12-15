@@ -17,5 +17,8 @@ class num8_person{
     }
 }
 public class num8 {
+    public static void main(String arg[]){
+        System.out.println("111");
+    }
 
 }
