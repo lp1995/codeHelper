@@ -2,6 +2,7 @@ package algorithm;
 
 /**
  * Created by lenovo on 2016/12/13.
+ * 最大匹配 匹配的数量最大
  */
 class TagMaxMatch{
     public int edge[][]; // 存储关系
