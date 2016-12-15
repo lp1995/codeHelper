@@ -1,10 +1,7 @@
-
+package 基础算法;
 /**
  * 穷举算法算 计算  wwwdot - google = dotcom
  */
-
-
-import sun.rmi.server.InactiveGroupException;
 
 /**
  * char_value 存的是使用的数字表
@@ -20,7 +17,6 @@ class char_value{
         this.value = value;
     }
 }
-
 /**
  * char_item 是用来存储未知数
  * c表示未知数的字符表示
@@ -39,7 +35,7 @@ class char_item{
     }
 }
 
-public class test01 {
+public class google {
     public static int max_number = 9;
     public static void checkAnswer( char_item item[] ){
         String a = "wwwdot";

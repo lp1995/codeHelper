@@ -1,9 +1,11 @@
+package 基础算法;
+
 /**
  * 阿拉伯数字和中文数字
  */
 
 
-public class test03 {
+public class numberToChinese {
     public static String chnNumChar[]=new String[]{"零","一","二","三","四","五","六","七","八","九"};
     public static String chnUnitSection[] = new String[]{"","万","亿","万亿"};
     public static String chnUnitChar[] = new String[]{"","十","百","千"};

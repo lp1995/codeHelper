@@ -18,6 +18,8 @@ import java.util.Collections;
  * 关键路径延期将导致活动延期
  * 一个活动的时间余量是0，该活动就是关键路径，时间余量是最晚时间 - 最早时间
  */
+
+
 //aov 网表示的结构
 class tagVertexNode implements Comparable<tagVertexNode>{
     public String name;
