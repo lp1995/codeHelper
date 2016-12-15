@@ -1,8 +1,9 @@
-package algorithm;
+package 基础算法;
 
 /**
  * Created by liupeng on 2016/12/15.
  * 初级算法学习  二叉树
+ * 递归先序遍历 查找
  */
 
 class TreeNode{
