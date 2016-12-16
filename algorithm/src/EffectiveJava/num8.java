@@ -10,6 +10,8 @@ class num8_person{
     public int data;
     @Override
     public boolean equals(Object obj) {//不能声明为 num8_person obj
+        if(obj == this)
+            return true;
         if(!(obj instanceof  num8_person)){
             return  false;
         }
