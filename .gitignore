@@ -10,6 +10,7 @@
 *.jar
 *.war
 *.ear
+.idea
 
 # Intellij
 
